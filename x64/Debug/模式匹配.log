@@ -1,0 +1,6 @@
+﻿  brute-force-kmp.cpp
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\模式匹配\brute-force-kmp.cpp(38,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\模式匹配\brute-force-kmp.cpp(49,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\模式匹配\brute-force-kmp.cpp(76,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\模式匹配\brute-force-kmp.cpp(87,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  模式匹配.vcxproj -> C:\Users\f'l'y\Desktop\新建文件夹\课程\数据结构\串，数组与广义表\模式匹配\x64\Debug\模式匹配.exe
